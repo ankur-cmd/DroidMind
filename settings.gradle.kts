@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "DroidMind"
 include(":app")
+include(":core:common")
+include(":feature:chat:domain")
