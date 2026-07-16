@@ -23,3 +23,5 @@ rootProject.name = "DroidMind"
 include(":app")
 include(":core:common")
 include(":feature:chat:domain")
+include(":feature:chat:data")
+include(":feature:chat:presentation")
